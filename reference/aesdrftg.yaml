@@ -42,6 +42,7 @@ paths:
         new The beginning of an awesome article...
 
         https://test123.x-20398.stoplight-dev.com/docs/spectral/docs/reference/openapi-rules.md#info-contact
+        https://test123.x-20398.stoplight-dev.com/docs/spectral/docs/reference/core-functions.md#enumeration
 
         https://test123.x-20398.stoplight-dev.com/docs/spectral/docs/reference/openapi-rules.md#info-description
 
@@ -137,7 +138,7 @@ paths:
                 value:
                   lastName: Baker
                   dateOfBirth: '1985-10-02'
-        description: |+
+        description: |
           new The beginning of an awesome article...
 
           https://test123.x-20398.stoplight-dev.com/docs/spectral/docs/reference/openapi-rules.md#info-contact
@@ -183,7 +184,6 @@ paths:
           https://test123.x-20398.stoplight-dev.com/docs/check-2630/branches/new/docs/mdu.md#info-license
 
           https://test123.x-20398.stoplight-dev.com/docs/check-2630/branches/new/docs/mdu.md#info-description
-
       x-stoplight:
         id: brh1eujw6vvm5
   /user:
