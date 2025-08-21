@@ -1,0 +1,10 @@
+title: asscfgdv
+x-stoplight:
+  id: njcve90u7tbk3
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: b955egnzszqk8
+description: ''
